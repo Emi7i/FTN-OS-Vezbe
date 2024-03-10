@@ -1,5 +1,5 @@
 # 📝About 
-Ovde su postavljena moja rešenja zadataka sa 3. vežbi za predmet Operativni Sistemi.
+Ovde su postavljena moja rešenja zadataka sa vežbi za predmet Operativni Sistemi.
 
 # 🗃️Index
 **Emilija Opsenica**
